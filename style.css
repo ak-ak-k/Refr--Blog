@@ -557,7 +557,7 @@ footer {
   margin: 20px 0;
 }
 
-.svgs_logo button {
+.svgs_logo a {
   border: none;
   outline: none;
   background-color: transparent;
